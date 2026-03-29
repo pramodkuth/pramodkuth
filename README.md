@@ -10,7 +10,7 @@
 - ⚙️ **Highly Configurable**: Strong advocate for externalized configuration, ensuring systems adapt without recompilation.
 - 🛠 **SOLID & Pragmatic**: Strict adherence to SOLID principles to ensure long-term system health and maintainability.
 
-### 🧪 Current Lab Work
+### 🧪 Current Lab Work and Projects
 - 📘 **ML System Design**: Completed *Designing Machine Learning Systems* by Chip Huyen.
 - 🤖 **AI Advisor with OPA**: Built an intelligent advisor using **Open Policy Agent (OPA)** to enforce fine-grained, pluggable governance and regulations.
 - 🔗 **Blockchain Certified**: Completed **IBM Blockchain Essentials** training—focusing on Blockchain principles and practices and how they can be applied within a business environment.
